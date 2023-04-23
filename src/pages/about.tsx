@@ -5,19 +5,15 @@ import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
 
 const About = () => (
-  <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
+  <Main meta={<Meta title="About Yeykov" description="Information about Yeykov" />}>
     <Content>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
-        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
-        labore voluptatibus distinctio recusandae autem esse explicabo molestias
-        officia placeat, accusamus aut saepe.
+        Blog personal mostrado al público a fin de aportar con mi pequeño grano de arena 
+        en este basto mar de información, esperando pueda ser de utilidad para alguien en algún momento.
       </p>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
-        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
-        labore voluptatibus distinctio recusandae autem esse explicabo molestias
-        officia placeat, accusamus aut saepe.
+        Blog personal mostrado al público a fin de aportar con mi pequeño grano de arena 
+        en este basto mar de información, esperando pueda ser de utilidad para alguien en algún momento.
       </p>
     </Content>
   </Main>
